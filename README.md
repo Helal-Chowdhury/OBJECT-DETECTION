@@ -4,7 +4,11 @@
  <img align="left" width="1000" height="500" src="https://github.com/Helal-Chowdhury/OBJECT-DETECTION/blob/main/finaljpg.jpg">
  
  ### Introduction
-In this project, Five different types of ECG beats are taken into account to classify:
+In this project, When it comes to object detection, popular detection frameworks are
+
+YOLO
+SSD
+Faster R-CNN
 
 ### How to create project environment and install packages:
 
