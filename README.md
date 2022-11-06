@@ -23,6 +23,9 @@ To run the app, Go to __FRONEND__ folder and shoot this command:
 streamlit run ECG.py
 ```
 ## From Web UI 
- - Select Signal
 
-This will generate the prediction and the underlying plots for visualisation
+ - upload image
+ 
+ - click the **Detect Object** button to detect the object
+
+
