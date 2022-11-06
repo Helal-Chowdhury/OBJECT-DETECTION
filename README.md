@@ -4,11 +4,8 @@
  <img align="left" width="1000" height="500" src="https://github.com/Helal-Chowdhury/OBJECT-DETECTION/blob/main/finaljpg.jpg">
  
  ### Introduction
-In this project, When it comes to object detection, popular detection frameworks are
+In this project, SSD based object detection framework is used. Object labels is given in Object.txt file to detect the object.
 
-YOLO
-SSD
-Faster R-CNN
 
 ### How to create project environment and install packages:
 
