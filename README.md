@@ -20,7 +20,7 @@ pip install <package name>
 ## RUN the App
 To run the app, Go to __FRONEND__ folder and shoot this command:              
 ```bash
-streamlit run ECG.py
+streamlit run Object_Detection.py
 ```
 ## From Web UI 
 
