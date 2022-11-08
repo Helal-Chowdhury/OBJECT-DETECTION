@@ -1,5 +1,5 @@
-Author: Helal Chowdhury
-Version: 1
+#Author: Helal Chowdhury
+#Version: 1
 from __future__ import print_function, division
 #import pandas as pd
 import matplotlib.pyplot as plt
